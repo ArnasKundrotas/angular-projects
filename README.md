@@ -1,2 +1,2 @@
-# Angular Projects dump
+# Angular Projects
 Angular Projects dump
